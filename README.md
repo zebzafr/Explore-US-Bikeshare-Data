@@ -16,8 +16,9 @@ Randomly selected data for the first six months of 2017 was provided for all thr
 6. User Type (Subscriber or Customer)
 
 The Chicago and New York City files also have the following two columns:
-Gender
-Birth Year
+
+7. Gender
+8. Birth Year
 
 ### Evaluate
 For the project, a variety of descriptive statistics were computed to provide following information:
